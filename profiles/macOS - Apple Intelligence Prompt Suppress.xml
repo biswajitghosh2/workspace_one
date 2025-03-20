@@ -1,0 +1,26 @@
+# This profile is to deployed to supress Apple Intelligence Prompt in macOS
+
+# All DDUI options will remain unchanged and below is the custom script which needs to be deployed.
+
+#--------------PLEASE COPY BELOW THIS LINE AND DO NOT EDIT BELOW THIS LINE-------------------------
+
+<dict>
+        <key>SkipSetupItems</key>
+        <array>
+          <string>Intelligence</string>
+        </array>
+        <key>PayloadDisplayName</key>
+        <string>AI com.apple.SetupAssistant.managed</string>
+        <key>PayloadDescription</key>
+        <string>Profile to Block Apple Intelligence Setup Assistant Panel</string>
+        <key>PayloadOrganization</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>com.apple.SetupAssistant.managed</string>
+        <key>PayloadUUID</key>
+        <string>5e43e8d3-c955-41e0-a44c-a8fbe5a66eb7</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.SetupAssistant.managed.AI</string>
+ </dict>
