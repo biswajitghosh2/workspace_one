@@ -1,6 +1,13 @@
 # Introduction
 This is a repository which will contain the profiles, scripts, sensors which is deployed for Apple Mac and iOS devices.
 
+## Automations
+
+These are automations which are designed for Workspace One and are primarily build on:
+
+    1. Powershell
+    2. Shell scripting
+
 ## Profiles
 In Workspace ONE, profiles are used to manage and configure devices, enforcing corporate policies and settings, and can be user or device-based, with payloads containing specific settings for each platform. 
 
