@@ -1,5 +1,5 @@
 # Introduction
-This is a repository which will contain the profiles, scripts, sensors which is deployed for Apple Mac and iOS devices.
+This is a repository which will contain the profiles, scripts, sensors and automations which is deployed for Apple Mac and iOS devices.
 
 ## Automations
 
