@@ -16,10 +16,10 @@ Profiles are the primary way to manage devices in Workspace ONE UEM, allowing ad
     1. Device Profiles - Apply settings and restrictions to all users on a device, regardless of who is logged in. 
     2. User Profiles - Apply settings to active and enrolled users only. 
 1. To create a profile:
-   1. Access the MDM console
-   2. Navigate to Resources => Profiles & Baselines => Profiles
-   3. Click Add > Add Profile
-   4. Select the context (User or Device) and then select the Device Type if the context is "Device".
-   5. Configure the details and paylods for the profile.
+   a. Access the MDM console
+   b. Navigate to Resources => Profiles & Baselines => Profiles
+   c. Click Add > Add Profile
+   d. Select the context (User or Device) and then select the Device Type if the context is "Device".
+   e. Configure the details and paylods for the profile.
 
 Profiles are also primarily used to provision multi-platform (iOS, macOS, etc.) with the same application settings. 
