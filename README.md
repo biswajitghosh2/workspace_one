@@ -26,3 +26,6 @@ Profiles are the primary way to manage devices in Workspace ONE UEM, allowing ad
    b. Please follow the following Omnissa KB to deploy a user profile: https://docs.omnissa.com/bundle/SystemSettingsVSaaS/page/DeviceandUserAdvancedProfileOptionsSettings.html 
 
 Profiles are also primarily used to provision multi-platform (iOS, macOS, etc.) with the same application settings. 
+
+## Scripts
+
