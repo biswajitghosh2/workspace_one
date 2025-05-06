@@ -9,8 +9,8 @@
 $SourceApiKey = "OyeGrzrEI7RBQWVL5VcJrBqtvit2EZqGiQqyEO5Zwb8="
 $body = @{
      "grant_type" = "client_credentials"
-     "client_id" = "aa3a5479e7a042218df6a13bc2249138"
-     "client_secret" = "986BDAEBAED0725A01A59A7FC4969C59"
+     "client_id" = ""
+     "client_secret" = ""
 }
 
 #header information
