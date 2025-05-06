@@ -1,0 +1,18 @@
+# This profile is to deployed to deploy Zscaler in macOS
+
+# All DDUI options will remain unchanged and below is the custom script which needs to be deployed.
+
+#--------------PLEASE COPY BELOW THIS LINE AND DO NOT EDIT BELOW THIS LINE-------------------------
+
+
+<dict>
+        <key>installation-parameters</key>
+<dict>
+        <key>cloudName</key>
+        <string>zscloud</string>
+</dict>
+<dict>
+        <key>userDomain</key>  
+        <string>shell.com</string>
+</dict>
+</dict>
