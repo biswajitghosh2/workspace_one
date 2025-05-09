@@ -30,4 +30,6 @@ Profiles are also primarily used to provision multi-platform (iOS, macOS, etc.) 
 
 ## Scripts
 
-In Workspace ONE, scripts are programmable resources used to automate tasks and collect data on endpoint devices. They can be used to push code to devices, automate endpoint configurations, and even allow users to run scripts on demand. 
+In Workspace ONE, scripts are programmable resources used to automate tasks and collect data on endpoint devices. They can be used to push code to devices, automate endpoint configurations, and even allow users to run scripts on demand.
+
+In Workspace One, the scripts are primarily designed using "Bash" or "Zsh", however other languages are also possible.
