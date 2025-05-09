@@ -29,3 +29,5 @@ Profiles are the primary way to manage devices in Workspace ONE UEM, allowing ad
 Profiles are also primarily used to provision multi-platform (iOS, macOS, etc.) with the same application settings.
 
 ## Scripts
+
+In Workspace ONE, scripts are programmable resources used to automate tasks and collect data on endpoint devices. They can be used to push code to devices, automate endpoint configurations, and even allow users to run scripts on demand. 
